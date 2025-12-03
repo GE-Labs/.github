@@ -1,6 +1,21 @@
 # Welcome to GE-Labs
 
-We're Garrett and Erik — two developers building projects together.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/garrett-died">
+        <img src="https://avatars.githubusercontent.com/u/78575361?v=4" width="100" alt="Garrett"/><br/>
+        <b>garrett-died</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/erikplachta">
+        <img src="https://avatars.githubusercontent.com/u/17508965?v=4" width="100" alt="Erik Plachta"/><br/>
+        <b>Erik Plachta</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## What We're About
 
@@ -18,5 +33,4 @@ We're Garrett and Erik — two developers building projects together.
 
 ## Connect
 
-<!-- TODO: Add your links -->
 - [Website](https://ge-labs.github.io/GE-Labs/)

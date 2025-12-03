@@ -60,9 +60,8 @@ GE-Labs/
 
 ## Connect With Us
 
-<!-- TODO: Add your contact info / social links -->
-- Garrett: [GitHub](https://github.com/TODO)
-- Erik: [GitHub](https://github.com/TODO)
+- Garrett: [GitHub](https://github.com/garrett-died)
+- Erik: [GitHub](https://github.com/erikplachta)
 
 ---
 
