@@ -1,7 +1,8 @@
 # GE-Labs
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Website](https://img.shields.io/badge/website-live-green.svg)](https://ge-labs.github.io/)
+[![Deploy Status](https://github.com/GE-Labs/ge-labs.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/GE-Labs/ge-labs.github.io/actions/workflows/pages/pages-build-deployment)
+[![Website](https://img.shields.io/badge/website-ge--labs.github.io-green.svg)](https://ge-labs.github.io/)
 
 A collaborative space for personal development projects by Garrett and Erik.
 
