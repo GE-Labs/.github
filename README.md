@@ -47,12 +47,14 @@ The site auto-deploys to GitHub Pages when changes are pushed to `docs/` on the 
 
 ```
 GE-Labs/
-├── docs/           # Website files (deployed to GitHub Pages)
+├── docs/              # Website files (deployed to GitHub Pages)
 │   ├── index.html
 │   └── styles.css
+├── profile/
+│   └── README.md      # Org landing page (for .github repo)
 ├── .github/
 │   └── workflows/
-│       └── deploy.yml  # CI/CD pipeline
+│       └── deploy.yml # CI/CD pipeline
 └── README.md
 ```
 
