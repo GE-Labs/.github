@@ -1,5 +1,8 @@
 # GE-Labs
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub Pages](https://img.shields.io/badge/demo-live-green.svg)](https://ge-labs.github.io/GE-Labs/)
+
 A collaborative space for personal development projects by Garrett and Erik.
 
 ## About Us
@@ -47,23 +50,34 @@ The site auto-deploys to GitHub Pages when changes are pushed to `docs/` on the 
 
 ```
 GE-Labs/
-├── docs/              # Website files (deployed to GitHub Pages)
+├── docs/                  # Website (GitHub Pages)
 │   ├── index.html
-│   └── styles.css
+│   ├── styles.css
+│   └── 404.html
 ├── profile/
-│   └── README.md      # Org landing page (for .github repo)
+│   └── README.md          # Org landing page
 ├── .github/
 │   └── workflows/
-│       └── deploy.yml # CI/CD pipeline
+│       └── deploy.yml     # CI/CD pipeline
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── LICENSE
 └── README.md
 ```
 
 ## Connect With Us
 
-<!-- TODO: Add your contact info / social links -->
-- Garrett: [GitHub](https://github.com/TODO)
-- Erik: [GitHub](https://github.com/TODO)
+- Garrett: [GitHub](https://github.com/garrett-died)
+- Erik: [GitHub](https://github.com/erikplachta)
 
----
+## Contributing
 
-*Built with collaboration and caffeine*
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## Code of Conduct
+
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+## License
+
+This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
