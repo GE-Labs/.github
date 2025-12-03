@@ -1,7 +1,7 @@
 # GE-Labs
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/demo-live-green.svg)](https://ge-labs.github.io/GE-Labs/)
+[![Website](https://img.shields.io/badge/website-live-green.svg)](https://ge-labs.github.io/)
 
 A collaborative space for personal development projects by Garrett and Erik.
 
@@ -15,7 +15,7 @@ We're two developers passionate about building cool things together.
 <!-- TODO: Add your active projects here -->
 | Project | Description | Status |
 |---------|-------------|--------|
-| *Coming soon* | Our first collab project | Planning |
+| [ge-labs.github.io](https://github.com/GE-Labs/ge-labs.github.io) | Organization website | Active |
 
 ## Goals
 
@@ -29,36 +29,12 @@ We're two developers passionate about building cool things together.
 <!-- TODO: List technologies you're interested in using -->
 - TBD
 
-## Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/GE-Labs/GE-Labs.git
-
-# Open the homepage locally
-open docs/index.html
-```
-
-## Deployment
-
-The site auto-deploys to GitHub Pages when changes are pushed to `docs/` on the main branch.
-
-<!-- TODO: Update with your actual Pages URL -->
-**Live site:** https://ge-labs.github.io/GE-Labs/
-
 ### Project Structure
 
 ```
-GE-Labs/
-├── docs/                  # Website (GitHub Pages)
-│   ├── index.html
-│   ├── styles.css
-│   └── 404.html
+.github/
 ├── profile/
-│   └── README.md          # Org landing page
-├── .github/
-│   └── workflows/
-│       └── deploy.yml     # CI/CD pipeline
+│   └── README.md          # Org landing page (github.com/GE-Labs)
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
 ├── LICENSE
