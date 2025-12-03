@@ -29,8 +29,8 @@
 <!-- TODO: Link your repos as you create them -->
 | Repo | Description |
 |------|-------------|
-| [GE-Labs](https://github.com/GE-Labs/GE-Labs) | Organization homepage |
+| [ge-labs.github.io](https://github.com/GE-Labs/ge-labs.github.io) | Organization website |
 
 ## Connect
 
-- [Website](https://ge-labs.github.io/GE-Labs/)
+- [Website](https://ge-labs.github.io/)
